@@ -9,10 +9,7 @@
 - If tested, provide details on how the testing was conducted:
   - Local testing steps
   - Unit/Integration tests
-  - Any automated test results
-
-## Linked Issues
-- Closes #[issue_number]
+  - Any automated test
 
 ## Checklist
 - [ ] Code compiles and runs without errors.
@@ -20,11 +17,7 @@
 - [ ] Relevant documentation has been updated.
 - [ ] This PR is small and focused.
 - [ ] JIRA ticket link is included in the description.
-- [ ] PR is linked to the correct GitHub issue using `Closes #issue_number`.
-
-## Review and Approvals
-- [ ] At least 1 reviewer has approved this pull request.
-- [ ] CODEOWNERS auto-assigned reviewers have been tagged.
+- [ ] PR is linked to the correct `JIRA_TICKET_URL`.
 
 ---
 
